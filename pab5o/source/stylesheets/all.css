@@ -1,0 +1,72 @@
+div {
+  position: absolute;
+  border-radius: 9px;
+  background-color: rgb(163,40,52);
+  box-sizing: border-box;
+  color: #fff;
+  font-family: Verdana, "sans-serif";
+}
+
+/*#div1 {
+background-color: rgba(255,0,0, .7);
+z-index: 3;
+top: 250px;
+left: 175px;
+}
+
+#div2{
+background-color: rgba(255,255,0, .7);
+z-index: 1;
+top: 50px;
+left: 400px;
+}
+
+#div3{
+background-color: rgba(0,0,255, .7);
+z-index: 2;
+top: 250px;
+left: 600px;
+}*/
+
+h1 {
+  font-size: 6em;
+  line-height: 85%;
+}
+
+.titelbox {
+  top: 100px;
+  left: 200px;
+  width: 550px;
+  height: 350px;
+  text-align: center;
+  padding-top: 9px;
+}
+.button {
+  top: 458px;
+  left: 200px;
+  width: 550px;
+  height: 35px;
+  text-align: center;
+  padding-top: 4px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.kreis1 {
+  top: 410px;
+  left: 170px;
+  width: 130px;
+  height:  130px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+}
+.kreis2 {
+  top: 425px;
+  left: 185px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  z-index: 2;
+  background-color: rgb(201,133,143);
+
+}
